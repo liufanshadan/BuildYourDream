@@ -7,5 +7,6 @@ public class SecondTest {
     public void test1(){
         System.out.println("操你妈的");
         System.out.println("操你大爷");
+        System.out.println("cnmd");
     }
 }
