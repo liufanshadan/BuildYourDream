@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 public class SecondTest {
     @Test
     public void test1(){
-        System.out.println("操你妈的");
-        System.out.println("操你大爷");
-        System.out.println("cnmd");
+        System.out.println("房子");
+        System.out.println("车子");
+        System.out.println("票子");
     }
 }
